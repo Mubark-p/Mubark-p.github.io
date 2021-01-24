@@ -52850,7 +52850,7 @@ $S:332}
 F.or.prototype={
 dK:function(a){var s,r=this,q=document.createElement("video")
 q.src=r.b
-q.autoplay=!1
+q.autoplay=1
 q.controls=!1
 s=q.style
 s.border="none"
